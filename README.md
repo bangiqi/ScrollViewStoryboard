@@ -3,4 +3,6 @@ ScrollViewStoryboard
 
 ScrollView with Storyboard
 
-![Image](testScrollViewStoryboard/Default-568h@2x.png)
+When you add object on UIScrollView, you must disabled autolayout on UIView 
+
+![Image](assets/unchekautolayout.png)
